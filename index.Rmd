@@ -28,7 +28,7 @@ of *Abdullah Al Mahmud*
 
 **Github:** [*mahmudstat*](https://github.com/mahmudstat)
 
-**Website:** [statmania](mahmud.statmania.info)
+**Website:** [Stat Mania](mahmud.statmania.info)
 </div>
 
 
@@ -36,7 +36,7 @@ of *Abdullah Al Mahmud*
 
 **Lecturer in Statistics**
 
-- *Pabna Cadet College*  
+- *Pabna Cadet College*
 - October, 2019 - Present
 
 **Research Assistant**
@@ -144,7 +144,7 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
 
 - [*Stat Mania*](https://www.statmania.info)
 - [*Statistics with R*](https://rstat.statmania.info)
-- [*Bishow.com*](https://www.bishwo.com)
+- [*Bishwo.com*](https://www.bishwo.com)
 - [*Osim Somikoron*](https://os.statmania.info)
 - [*The Last Three Minutes*](https://l3m.bishwo.com/)
 - [*Astronomy in Bengali*](https://sky.bishwo.com)
