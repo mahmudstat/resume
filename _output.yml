@@ -5,6 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Resume of Mahmud</a></li>
       after: |
+        <li><a href="https://mahmud.statmania.info/pdf/resume.pdf" target="blank">Download PDF</a></li>
         <li><a href="https://github.com/mahmudstat/resume" target="blank">Published with bookdown</a></li>
     edit: https://github.com/mahmudstat/resume/edit/master/%s
     download: ["pdf", "epub"]

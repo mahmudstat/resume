@@ -1,19 +1,14 @@
---- 
-site: bookdown::bookdown_site
-output: bookdown::gitbook
-documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: mahmudstat/resume
-description: "Résumé of Abdullah Al Mahmud as updated on 2020-11-07"
+---
+output: 
+  pdf_document
+
 ---
 
-# Résumé {-}
+# Résumé of {-}
 
-of *Abdullah Al Mahmud*
+*Abdullah Al Mahmud*
 
-**Lecturer in Statistics, Pabna Cadet College**
+Lecturer in Statistics, Pabna Cadet College
 
 ---
 
@@ -22,7 +17,7 @@ of *Abdullah Al Mahmud*
 <img style="float: right; border-radius: 50%;" src="mahmud.jpg" width="25%">
 
 <div style="display: block">
-**Email:** almahmud.sbi[at]gmail.com
+**Email:** almahmud.sbi@gmail.com
 
 **Phone:** +880-1722-437040
 
@@ -36,7 +31,7 @@ of *Abdullah Al Mahmud*
 
 **Lecturer in Statistics**
 
-- *Pabna Cadet College*  
+- *Pabna Cadet College*
 - October, 2019 - Present
 
 **Research Assistant**
