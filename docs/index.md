@@ -218,4 +218,7 @@ Centre, Dhaka*
 - **Arabic**
 
   - Introductory
-  
+
+<head>
+  <title>Résumé of Abdullah Al Mahmud</title>
+</head>
