@@ -3,11 +3,11 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Resume of Mahmud</a></li>
+        <li><a href="./">Résumé of Mahmud</a></li>
       after: |
-        <li><a href="https://github.com/mahmudstat/resume/blob/main/pdf/resume.pdf" target="blank">View PDF</a></li>
-        <li><a href="https://github.com/mahmudstat/resume/raw/main/pdf/resume.pdf" target="blank">Download PDF</a></li>
-        <li><a href="https://github.com/mahmudstat/resume" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/mahmudstat/resume/blob/main/pdf/resume.pdf" target="blank">View Résumé</a></li>
+        <li><a href="https://github.com/mahmudstat/resume/raw/main/pdf/resume.pdf" target="blank">Download Résumé (pdf)</a></li>
+        <li><a href="https://bookdown.org/="blank">Published with bookdown</a></li>
     edit: https://github.com/mahmudstat/resume/edit/master/%s
 bookdown::pdf_book:
   includes:
