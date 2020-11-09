@@ -6,7 +6,7 @@ of *Abdullah Al Mahmud*
 
 ---
 
-### Contact Information
+### Contact Information {-}
 
 <img style="float: right; border-radius: 50%;" src="mahmud.jpg" width="25%">
 
