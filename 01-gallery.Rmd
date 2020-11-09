@@ -16,6 +16,7 @@ knitr:: include_graphics("img/lalmai.jpg")
 knitr:: include_graphics("img/cholonbil.jpg")
 ``` 
 
+
 ```{r mill, echo=FALSE, fig.cap = "Roaming in Pabna.", fig.align='center', out.width = '60%'}
 knitr:: include_graphics("img/pabna_mill.jpg")
 ```

@@ -20,6 +20,7 @@
 <p class="caption">(\#fig:cbil)Roaming at Cholonbil.</p>
 </div>
 
+
 <div class="figure" style="text-align: center">
 <img src="img/pabna_mill.jpg" alt="Roaming in Pabna." width="60%" />
 <p class="caption">(\#fig:mill)Roaming in Pabna.</p>
