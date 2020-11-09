@@ -1,4 +1,6 @@
 baseurl = "/"
+relativeurls = true
+canonifyurls = false
 title = "Mainroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
