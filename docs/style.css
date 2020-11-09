@@ -12,3 +12,10 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}

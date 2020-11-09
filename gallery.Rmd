@@ -1,0 +1,18 @@
+# Gallery {- #gallery}
+
+```{r miu, echo=FALSE, fig.cap = "Lecture At MIU.", fig.align='center', out.width = '60%'}
+knitr:: include_graphics(c("img/miu1.JPG"))
+```
+
+```{r lal, echo=FALSE, fig.cap = "Roaming at Lalmai.", fig.align='center', out.width = '60%'}
+knitr:: include_graphics("img/lalmai.jpg")
+``` 
+
+```{r cbil, echo=FALSE, fig.cap = "Roaming at Cholonbil.", fig.align='center', out.width = '60%'}
+knitr:: include_graphics("img/cholonbil.jpg")
+``` 
+
+```{r mill, echo=FALSE, fig.cap = "Roaming in Pabna.", fig.align='center', out.width = '60%'}
+knitr:: include_graphics("img/pabna_mill.jpg")
+```
+
