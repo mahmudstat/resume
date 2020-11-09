@@ -6,6 +6,11 @@
 </div>
 
 <div class="figure" style="text-align: center">
+<img src="img/sangla.jpg" alt="Sangla, Kinnaur, Hiamchal Pradesh, India" width="60%" />
+<p class="caption">(\#fig:sangla)Sangla, Kinnaur, Hiamchal Pradesh, India</p>
+</div>
+
+<div class="figure" style="text-align: center">
 <img src="img/lalmai.jpg" alt="Roaming at Lalmai." width="60%" />
 <p class="caption">(\#fig:lal)Roaming at Lalmai.</p>
 </div>

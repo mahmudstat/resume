@@ -4,6 +4,10 @@
 knitr:: include_graphics(c("img/miu1.JPG"))
 ```
 
+```{r sangla, echo=FALSE, fig.cap = "Sangla, Kinnaur, Hiamchal Pradesh, India", fig.align='center', out.width = '60%'}
+knitr:: include_graphics("img/sangla.jpg")
+```
+
 ```{r lal, echo=FALSE, fig.cap = "Roaming at Lalmai.", fig.align='center', out.width = '60%'}
 knitr:: include_graphics("img/lalmai.jpg")
 ``` 
