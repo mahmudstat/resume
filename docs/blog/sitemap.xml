@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>/post/basic-elements/</loc>
+    <loc>/2018/04/16/basic-html-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/post/creating-a-new-theme/</loc>
+    <loc>/2014/09/28/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>/post/goisforlovers/</loc>
+    <loc>/2014/04/02/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>/post/hugoisforlovers/</loc>
+    <loc>/2014/04/02/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +103,7 @@
   </url>
   
   <url>
-    <loc>/post/migrate-from-jekyll/</loc>
+    <loc>/2014/03/10/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
