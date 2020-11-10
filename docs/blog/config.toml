@@ -1,4 +1,5 @@
 baseurl = "/"
+publishDir = ""
 relativeurls = true
 canonifyurls = false
 title = "Mainroad"
