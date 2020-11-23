@@ -11,7 +11,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "Abdullah Al Mahmud"
-  bio = "A tecaher, writer, data analyst, and a programmer."
+  bio = "Abdullah Al Mahmud is A tecaher, writer, data analyst, and a programmer."
   avatar = "img/avatar.png"
 
 [Params]
