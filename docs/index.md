@@ -7,7 +7,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: mahmudstat/resume
-description: "Résumé of Abdullah Al Mahmud as updated on 2020-11-09"
+description: "Résumé of Abdullah Al Mahmud as updated on 2020-11-26"
 ---
 
 # About me {-}
@@ -16,7 +16,7 @@ description: "Résumé of Abdullah Al Mahmud as updated on 2020-11-09"
 
 I am a **lecturer in statistics** at *Pabna Cadet College*, Pabna, where I joined on 19 October, 2019. Before joining here, I was employed as a research assistant at *EAL*, Dhaka. I also worked as a science contributor for *The Daily Prothom Alo*. 
 
-I have, with the pen-name *Abdullah Adil Mahmud (আব্দুল্যাহ আদিল মাহমুদ)*, written **three science books**, which are all available for purchase on [Rokomari.com](https://www.rokomari.com/book/author/47631).
+I have, with the pen name *Abdullah Adil Mahmud (আব্দুল্যাহ আদিল মাহমুদ)*, written **three science books**, which are all available for purchase on [Rokomari.com](https://www.rokomari.com/book/author/47631).
 
 Hailing from Lakshmipur Sadar Upazila, I graduated with **B.S.** and **M.S.** degrees from the **University of Dhaka**.
 
@@ -26,7 +26,7 @@ I am very passionate about teaching, writing, programming, and data analysis, an
 
 **Learning** is by far my best hobby. In my free time, I love to roam around, connect with people, and watch sky.
 
-I am married 💓 to Salma Siddika, also an alumni of University of Dhaka.
+I am married 💓 to Salma Siddika, also an alumna of University of Dhaka.
 
 # Contact {-}
 

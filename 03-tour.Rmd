@@ -1,15 +1,11 @@
----
-title: "পঞ্চগড়ের পথে"
-author: "Abdullah Al Mahmud"
-date: '2020-11-22'
-slug: roaming-in-panchagarh
-categories:
-  - roaming
-tags:
-  - tour
-description: ''
-thumbnail: 'https://mahmud.statmania.info/blog/img/panchagarh/salilan.jpg'
----
+# Tour Story {- #tour}
+
+## Panchagarh {-} 
+
+**সময়কাল:** ১৯ নভেম্বর, ২০২০ - ২২ নভেম্বর, ২০২০ 
+
+<img style="float: center; border-radius: 50%;" src="https://mahmud.statmania.info/blog/img/panchagarh/salilan.jpg" width="80%">
+
 
 বৃহস্পতিবার (১৯/১১/২০২০) যাত্রা শুরু। ১২টার পরপর [কলেজের](https://mahmud.statmania.info/) গেট দিয়ে বের হলাম। অটোয় চেপে চলে এলাম পাবনা টার্মিনাল। পঞ্চগড়ের একতা এক্সপ্রেস ট্রেনের টিকেট কেটেছি নাটোর স্টেশন থেকে। ভাগ্য ভাল, নাটোরের বাস পেয়ে গেলাম।  ঘড়িতে সময় ১২টা ৪৫। ট্রেন ছাড়ার সময় বিকেল ৩:১৫। শুনেছি বাস নাটোর পৌঁছায় ১ থেকে দেড় ঘণ্টায়। কিন্তু এখানে-সেখানে থামলে কি আর সেটা সম্ভব! 
 
@@ -21,7 +17,7 @@ thumbnail: 'https://mahmud.statmania.info/blog/img/panchagarh/salilan.jpg'
 
 <figure>
 <img src="https://mahmud.statmania.info/blog/img/panchagarh/dighi2.jpg" width="100%">
-  <figcaption>মহারাজার দীঘি</figcaption>
+  <figcaption><i>মহারাজার দীঘি</i></figcaption>
 </figure>
 
 দীঘির পাড় অনেকটা উঁচু। দীঘিটাও বিশাল। পাড়ে উঠে কিছুক্ষণ দীঘির বিশালতা উপভোগ করলাম। ছবিও তুললাম কয়েকখান। এবার পাড় ধরে উত্তরে হাঁটা। চোখে পড়ল সারি সারি চা বাগান। স্যালিলান টি এস্টেটের অংশ এগুলো। দীঘির পাড়ের উত্তর কোণায় কিছুক্ষণ সূর্যের আলো গায়ে মেখে বসে বসে চা বাগান দেখলাম অপলক নয়নে। 

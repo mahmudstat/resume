@@ -95,20 +95,6 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
 - *Prediction of Rainfall Pattern in Bangladesh Using Machine Learning Algorithms*
 - *An Insight into Induced Seismicity in Bangladesh*
 
-### Kaggle Competitions {-}
-
-- **Titanic: Machine Learning from Disaster**
-
-  *Accuracy*: 76.55%
-
-- **Digit Recognizer**
-
-  *Accuracy*: 53%
-
-- **House Price Prediction**
-
-  *Accuracy*: 92%
-
 ### Science Books {-}
 
 1. [**Bengali Translation of *A Briefer History of Time* **](https://www.rokomari.com/book/128479/a-briefer-history-of-time)
@@ -164,6 +150,19 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
   - Data Camp 
   - June 2018
 
+### Kaggle Competitions {-}
+
+- **Titanic: Machine Learning from Disaster**
+
+  *Accuracy*: 76.55%
+
+- **Digit Recognizer**
+
+  *Accuracy*: 53%
+
+- **House Price Prediction**
+
+  *Accuracy*: 92%
 
 ## Talks {-}
 
