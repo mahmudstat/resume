@@ -7,7 +7,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: mahmudstat/resume
-description: "Résumé of Abdullah Al Mahmud as updated on 2020-11-26"
+description: "About Abdullah Al Mahmud as updated on 2020-12-07"
 ---
 
 # About me {-}
