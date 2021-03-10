@@ -21,4 +21,10 @@ knitr:: include_graphics("img/cholonbil.jpg")
 knitr:: include_graphics("img/pabna_mill.jpg")
 ```
 
+# Contact {-}
 
+**Email:** almahmud.sbi[at]gmail.com
+
+**Facebook:** [mahmud.sbi](https://www.facebook.com/mahmud.sbi)
+
+**Linked In:** [mahmudstat](https://www.linkedin.com/in/mahmudstat/t)

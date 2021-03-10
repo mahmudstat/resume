@@ -7,7 +7,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: mahmudstat/resume
-description: "About Abdullah Al Mahmud as updated on 2020-12-07"
+description: "About Abdullah Al Mahmud as updated on 2021-03-11"
 ---
 
 # About me {-}
@@ -28,10 +28,34 @@ I am very passionate about teaching, writing, programming, and data analysis, an
 
 I am married 💓 to Salma Siddika, also an alumna of University of Dhaka.
 
-# Contact {-}
+# Books {-}
 
-**Email:** almahmud.sbi[at]gmail.com
+<img style="float: right; border-radius: 10%;" src="img/books/briefer_history_of_time.jpg." width="50%">
 
-**Facebook:** [mahmud.sbi](https://www.facebook.com/mahmud.sbi)
+A Briefer History of Time
 
-**Linked In:** [mahmudstat](https://www.linkedin.com/in/mahmudstat/t)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<img style="float: left; border-radius: 10%;" src="img/books/ms.jpg" width="50%">
+
+মহাবিশ্বের সীমানা 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img style="float: right; border-radius: 10%;" src="img/books/cover_os.jpg" width="50%">
+
+অসীম সমীকরণ  
+

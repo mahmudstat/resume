@@ -6,7 +6,7 @@ of *Abdullah Al Mahmud*
 
 ---
 
-### Contact Information {-}
+<h3> Contact Information </h3>
 
 <img style="float: right; border-radius: 50%;" src="mahmud.jpg" width="25%">
 
@@ -21,7 +21,7 @@ of *Abdullah Al Mahmud*
 </div>
 
 
-## Employment History {-}
+<h3> Employment History </h3>
 
 **Lecturer in Statistics**
 
@@ -33,7 +33,7 @@ of *Abdullah Al Mahmud*
 - *Engineers and Advisers Ltd. (EAL)* 
 - September, 2019 - October, 2019
 
-## Education {-}
+<h3> Education </h3>
 
 **MS in Statistics**
 
@@ -59,28 +59,28 @@ of *Abdullah Al Mahmud*
 - Poura Shahid Smrity Academy
 - GPA: 5.00 (out of 5)
 
-## Test Scores {-}
+<h3> Test Scores </h3>
 
 - **GRE:** 309 (*Quantitative*: 160, *Verbal*: 149)
 - **TOEFL:** 89 (*Reading*: 24, *Listening*: 21, *Speaking*: 21 , *Writing*: 23 )
 
-## Publications {-}
+<h3> Publications </h3>
 
-### Conference Presentations {-}
+<h3> Conference Presentations </h3>
 
 1. Mahmud, A, A and Rahman, M, M. Goodness of fit for uniform distribution:
 Benford’s law method. National Conference on Applications of Statistics on
 Sustainable Development Goals, MBSTU-2018, 24 September 2018. ID: TS3-11,
 Tangail, Bangladesh.
 
-### Accepted Articles {-}
+<h3> Accepted Articles </h3>
 
 1. Mahmud, A, A . 2018. Testing of Compliance of Benford’s Law with Disaster
 Death Tolls. Journal of Bangladesh Cadet Colleges.
 
-### Submitted Papers {-}
+<h3> Submitted Papers </h3>
 
-### Professional Researchers {-}
+<h3> Professional Researchers </h3>
 
 1. **Feasibility Study of Dhaka-Chattogram High-speed Rail Project**
   - November, 2018
@@ -89,13 +89,13 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
   - January, 2019
 
 
-### Other Reseacrhes {-}
+<h3> Other Reseacrhes </h3>
 
 - *An Insight into the Concept and Applictaions of Negative Probability*
 - *Prediction of Rainfall Pattern in Bangladesh Using Machine Learning Algorithms*
 - *An Insight into Induced Seismicity in Bangladesh*
 
-### Science Books {-}
+<h3> Science Books </h3>
 
 1. [**Bengali Translation of *A Briefer History of Time* **](https://www.rokomari.com/book/128479/a-briefer-history-of-time)
   - 2017 Ekushey Book Fair
@@ -115,7 +115,7 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
   - To be published in 2021 Ekushey Book Fair
 
 
-### Websites Developed {-}
+<h3> Websites Developed </h3>
 
 - [*Stat Mania*](https://www.statmania.info)
 - [*Statistics with R*](https://rstat.statmania.info)
@@ -124,9 +124,9 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
 - [*The Last Three Minutes*](https://l3m.bishwo.com/)
 - [*Astronomy in Bengali*](https://sky.bishwo.com)
 
-## Technical Skills {-}
+<h3> Technical Skills </h3>
 
-### Skills {-}
+<h3> Skills </h3>
 
 - *Programming Languages:* `R`, `Bash`, `FORTRAN`
 - *Statistical Packages:* `STATA`, `SPSS`, `TABLEAU`
@@ -135,7 +135,7 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
 - *Document Processing:* MS Office, Libreoffice, `Markdown`, `Latex`
 - *Internet Skills:* `MathJax`, `HTML`, `CSS`, `SVG`, `JS`
 
-### Courses {-}
+<h3> Courses </h3>
 
 1. [**Introduction to Git and GitHub**](https://www.coursera.org/learn/introduction-git-github/home/welcome)
  - Coursera 
@@ -150,7 +150,7 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
   - Data Camp 
   - June 2018
 
-### Kaggle Competitions {-}
+<h3> Kaggle Competitions </h3>
 
 - **Titanic: Machine Learning from Disaster**
 
@@ -164,7 +164,7 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
 
   *Accuracy*: 92%
 
-## Talks {-}
+<h3> Talks </h3>
 
 1. **Mathematics is Beautiful, So Is Programming**
 
@@ -173,27 +173,27 @@ Death Tolls. Journal of Bangladesh Cadet Colleges.
 2. **How to catch a Cheat Using Statistics**
   - *Notre Dame College, 2017*
 
-## Workshops {-}
+<h3> Workshops </h3>
 
 - **July 2018:** *Day long workshop on Statistics for Research by Dr. Rahmatull Imon, professor, Ball State University, USA*
 - **December 2014:** *Abdul Jabbar Workshop on Astronomy and Cosmology*
 - **June 2016:** *Astronomy Workshop conducted by BAA and Russian Cultural
 Centre, Dhaka*
 
-## Extra-curricular Activities {-}
+<h3> Extra-curricular Activities </h3>
 
 - *Member at Dhaka University Science Society (DUSS), University of Dhaka*
 - *Writer at National Science Magazines, including BigganChinta*
 - *Regular Public lectures on Mathematics and Astronomy*
 - *Writing for Wikipedia*
 
-## Leadership Skills {-}
+<h3> Leadership Skills </h3>
 
 - *Led a team of 11 members in a research project in fourth year.*
 - *Was a coordinator of Scholar's Forum, a student welfare organization.*
 - *Coordinated Science Writers' cell, a platform of Bengali Science Writers.*
 
-## Language SKills {-}
+<h3> Language SKills </h3>
 
 - **Bengali**
 
