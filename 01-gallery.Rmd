@@ -21,6 +21,12 @@ knitr:: include_graphics("img/cholonbil.jpg")
 knitr:: include_graphics("img/pabna_mill.jpg")
 ```
 
+# Websites {-}
+
+- [Statistics Lectures](https://lecture.statmania.info/): Academic Lectures
+- [Stat Mania](https://www.statmania.info/): Web portal on statistics and mathematics
+- [মহাবিশ্ব](https://sky.bishwo.com):Web portal on astronomy and cosmology
+
 # Contact {-}
 
 **Email:** almahmud.sbi[at]gmail.com

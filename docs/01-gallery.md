@@ -26,6 +26,12 @@
 <p class="caption">(\#fig:mill)Roaming in Pabna.</p>
 </div>
 
+# Websites {-}
+
+- [Statistics Lectures](https://lecture.statmania.info/): Academic Lectures
+- [Stat Mania](https://www.statmania.info/): Web portal on statistics and mathematics
+- [মহাবিশ্ব](https://sky.bishwo.com):Web portal on astronomy and cosmology
+
 # Contact {-}
 
 **Email:** almahmud.sbi[at]gmail.com

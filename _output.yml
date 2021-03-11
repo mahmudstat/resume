@@ -5,9 +5,9 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Résumé of Mahmud</a></li>
       after: |
+        <li><a href="https://www.thinkermahmud.com/blog" target="blank">Blog</a></li>
         <li><a href="https://github.com/mahmudstat/resume/blob/main/mahmud_cv_ac_latex.pdf" target="blank">View Résumé</a></li>
-        <li><a href="https://github.com/mahmudstat/resume/raw/main/mahmud_cv_ac_latex.pdf" target="blank">Download Résumé (pdf)</a></li>
-        <li><a href="https://bookdown.org/="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/mahmudstat/resume/raw/main/mahmud_cv_ac_latex.pdf" target="blank">Download Résumé</a></li>
     edit: https://github.com/mahmudstat/resume/edit/master/%s
 bookdown::pdf_book:
   includes:
